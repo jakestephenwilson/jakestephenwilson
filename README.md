@@ -30,7 +30,7 @@
   <a href="" target="_blank">
     <img src="https://img.shields.io/static/v1?message=unknown&logo=data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDEwODAgMTA4MCIgd2lkdGg9IjEwODAiIGhlaWdodD0iMTA4MCI+PHN0eWxlPi5he2ZpbGw6I2ZmZn08L3N0eWxlPjxwYXRoIGNsYXNzPSJhIiBkPSJtMTM0LjIgMTA3My4zaDE5Ny4ybDI0NS4zLTEwNjcuNGgtMTk2LjJ6bTM2OS4zIDBoMTk3LjJsMjQ1LjMtMTA2Ny4zaC0xOTYuMnoiLz48L3N2Zz4=&label=&color=de6546&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://ko-fi.com/" target="_blank">
+  <a href="https://ko-fi.com/jakestephenwilson" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ko-fi logo"  />
   </a>
   <a href="https://youtube.com" target="_blank">
